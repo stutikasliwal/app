@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task stuti</string>
+    <string name="facebook_app_id">736044106760444</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="fragment_form" > Form </string>
+    <string name="fragment_list" > List </string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+</resources>
